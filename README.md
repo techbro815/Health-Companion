@@ -1,5 +1,16 @@
 # AI Health Companion
 
+## Screenshots
+
+![Dashboard View](../ai_health_companion/static/screenshot1.png)
+_An intuitive dashboard showcasing your health journey at a glance._
+
+![Progress Graphs](../ai_health_companion/static/screenshot2.png)
+_Dynamic progress graphs tracking your health goals._
+
+![Calorie Estimation](../ai_health_companion/static/screenshot3.png)
+_Real-time calorie estimation from food images._
+
 ## 🌟 Overview
 
 AI Health Companion is a user-friendly platform designed to help users track and improve their physical and mental health. The app combines powerful AI tools, including mood analysis, calorie estimation, and motivational quotes, to provide a holistic approach to health and wellness. By gamifying health goals with streaks and rewards, it keeps users engaged and motivated.
