@@ -1,15 +1,3 @@
-# AI Health Companion
-
-## Screenshots
-
-![Dashboard View](../ai_health_companion/static/screenshot1.png)
-_An intuitive dashboard showcasing your health journey at a glance._
-
-![Progress Graphs](../ai_health_companion/static/screenshot2.png)
-_Dynamic progress graphs tracking your health goals._
-
-![Calorie Estimation](../ai_health_companion/static/screenshot3.png)
-_Real-time calorie estimation from food images._
 
 ## 🌟 Overview
 
@@ -18,7 +6,6 @@ AI Health Companion is a user-friendly platform designed to help users track and
 ---
 
 ## 🎯 Problem Statement
-
 1. Lack of integrated solutions for physical and mental health tracking.
 2. No easy way to visualize and track daily progress toward health goals.
 3. Absence of personalized and real-time suggestions to keep users motivated.
